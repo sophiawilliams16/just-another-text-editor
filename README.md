@@ -28,9 +28,9 @@ To install the project ...
 
 ## Usage  
 
-[JATE - Heroku Link](https://drive.google.com/file/d/1Z_ndra00GOYw-hZoIcbwEJxxutEBMD4U/view).
+[JATE - Heroku Link](https://justanothertexteditor-5fd05012ec57.herokuapp.com/).
 
-[GitHub Repository]()
+[GitHub Repository](https://github.com/sophiawilliams16/just-another-text-editor)
 
 
 ## Credits 
